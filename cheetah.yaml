@@ -1,0 +1,8 @@
+path: C:/Users/agcoe/src/cos791_assignment_2/cheetah_data
+
+train: cheetah_training
+val: cheetah_train_validation
+test: cheetah_test
+
+names:
+  0: cheetah
